@@ -1,0 +1,9 @@
+.output-line {
+    display: block;
+    text-align: start;
+    margin-left: 50px;
+    color: limegreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1rem;
+}
