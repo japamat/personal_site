@@ -4,13 +4,16 @@ function getHelp(command) {
   console.log('command', command);
   
   const terms = {
-    help: 'shows usage of command',
+    help: 'Display information about builtin commands.',
     pwd: 'pwd: Print the name of the current working directory',
+    cd: 'cd: Change the shell working directory.',
+    ls: 'ls -- list directory contents',
 	};
 	if (terms.hasOwnProperty(command)) {
 		return terms[command];
 	} else {
-		return `help not available for ${command}`;
+    
+		return `-bash: help: no help topics match '${command}'.  Try 'help help' or 'man ${command}' or 'info ${command}'.`;
 	}
 }
 

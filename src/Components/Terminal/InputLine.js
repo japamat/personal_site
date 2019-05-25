@@ -20,6 +20,7 @@ export default class InputLine extends Component {
 	handleChange(e) {
     // for arrow key up - get prev command
     if (e.keyCode === 38) {
+      e.preventDefault()
       this.setState(st => ({
         command: this.props.prevCommands[this.state.idx],
         idx: Math.max((this.state.idx - 1), 0)
