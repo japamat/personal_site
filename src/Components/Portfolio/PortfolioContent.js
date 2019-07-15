@@ -25,14 +25,14 @@ const projects = {
     imgSrc: havana,
     skills: ['JavaScript', 'React.js',],
     desc: `Here I am in Old Havana from a trip I took with a couple close friends of mine. Cars like that were often put together with parts from many different cars.`,
-    gitHub: '',
+    gitHub: 'https://github.com/japamat/personal_site/tree/master/src/Components/IpsumGenerator',
   },
   'Terminal': {
     name: 'Terminal',
     imgSrc: havana,
     skills: ['JavaScript', 'React.js',],
-    desc: `Here I am in Old Havana from a trip I took with a couple close friends of mine. Cars like that were often put together with parts from many different cars.`,
-    gitHub: '',
+    desc: `A fake bash temrinal built 100% in react. A pet project of mine. current functionality: cd, pwd, help, clear, & ls`,
+    gitHub: 'https://github.com/japamat/personal_site/tree/master/src/Components/Terminal',
   },
 };
 
