@@ -1,0 +1,10 @@
+.about-div {
+    background-color: rgb(18, 18, 18);
+    width: 100%;
+    position: relative;
+}
+
+.about-title {
+    max-width: 500px;
+    margin: 0 auto;
+}

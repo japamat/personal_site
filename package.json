@@ -3,17 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "animate.css": "^3.7.2",
     "capitalized": "^1.0.0",
+    "classnames": "^2.2.6",
+    "p5": "^0.8.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-p5-wrapper": "^2.0.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
+    "react-transition-group": "^4.1.0",
     "uuid": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy-surge": "react-scripts build && cp build/index.html build/200.html && surge build",
+    "build-dhost": "react-scripts build && cp deploy/.htaccess build/.htaccess"
   },
   "eslintConfig": {
     "extends": "react-app"

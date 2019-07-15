@@ -1,0 +1,8 @@
+.p5Canvas {
+    position: fixed;
+    z-index: 1;
+    width: 100vw;
+    height: calc(100vh - 60px);
+    top: 60px;
+    left: 0;
+}

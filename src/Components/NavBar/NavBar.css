@@ -1,0 +1,82 @@
+.navbar-div {
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    height: 60px;
+    width: 100%;
+    background: rgb(46, 44, 43)
+}
+
+.navbar-mobile {
+    position: absolute;
+    z-index: 2;
+}
+
+.mobile-menu {
+    margin-right: 100%;
+    width: 0%;
+    overflow: hidden;
+    background: rgba(46, 44, 43, .75);
+}
+
+.mobile-menu > a {
+    padding: 10px 50px;
+}
+
+.collapsed {
+    animation-duration: .5s;
+    animation-name: slideout;
+}
+
+.expanded {
+    position: relative;
+    animation-duration: .5s;
+    animation-name: slidein;
+    width: 176px;
+    left: 0;
+    margin-right: 0%;
+}
+
+.nav-menu-btn {
+    margin: 7px auto 7px 10px;
+}
+
+.nav-link {
+    padding: 4px auto;
+    font-size: 1.5rem;
+    color: rgb(162, 214, 107);
+}
+
+.nav-link:hover {
+    color: rgb(247, 184, 61);
+}
+
+.active {
+    color: rgb(166, 226, 46);
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+@keyframes slidein {
+    from {
+        margin-right: 100%;
+        width: 0%; 
+    }
+    
+    to {
+        margin-right: 0%;
+        width: 176px;
+    }
+}
+
+@keyframes slideout {
+    from {
+        margin-right: 0%;
+        width: 176px; 
+    }
+    
+      to {
+        margin-right: 100%;
+        width: 0%;
+    }
+}

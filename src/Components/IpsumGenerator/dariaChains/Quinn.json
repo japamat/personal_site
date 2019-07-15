@@ -57,7 +57,7 @@
     "$20...",
     "Sunday",
     "Excuse",
-    "cards)",
+    "cards",
     "granted.",
     "at",
     "us,",
@@ -1405,6 +1405,7 @@
     "of",
     "two",
     "with",
+    "Actually,",
     "this",
     "with",
     "if",
@@ -1502,7 +1503,7 @@
     "dip,",
     "that",
     "all,",
-    "leaves)",
+    "leaves",
     "he",
     "their",
     "telling",
@@ -2430,7 +2431,7 @@
   ".": [
     "They",
     "Anyway,",
-    "(warily)",
+    "warily",
     "Of"
   ],
   "we": [
@@ -2618,6 +2619,7 @@
     "with",
     "in",
     "all",
+    "Poor",
     "with",
     "here!",
     "in",
@@ -2857,7 +2859,7 @@
     "begin",
     "for",
     "place",
-    "card)",
+    "card",
     "asked",
     "date",
     "date"
@@ -3086,6 +3088,7 @@
   ],
   "away": [
     "now?",
+    "I",
     "at"
   ],
   "now?": [
@@ -3164,6 +3167,7 @@
     "all",
     "and",
     "just",
+    "reaches",
     "will"
   ],
   "is": [
@@ -3833,6 +3837,7 @@
     "all",
     "Really?",
     "that",
+    "phone",
     "the",
     "it",
     "it.",
@@ -3906,6 +3911,7 @@
     "a",
     "science.",
     "the",
+    "phone",
     "a",
     "the",
     "stuff",
@@ -4482,7 +4488,7 @@
     "Well,",
     "It's",
     "I'm",
-    "(screams)"
+    "screams"
   ],
   "Well,": [
     "I...",
@@ -6174,6 +6180,8 @@
     "is",
     "in",
     "to",
+    "Guess",
+    "Oh,",
     "somewhere",
     "all"
   ],
@@ -6537,7 +6545,7 @@
     "Daria,",
     "Well,",
     "Um,",
-    "(leaves)",
+    "leaves",
     "But,"
   ],
   "there?": [
@@ -6695,7 +6703,7 @@
   ],
   "Thanks.": [
     "All",
-    "(leaves)",
+    "leaves",
     "I"
   ],
   "twenty.": [
@@ -6947,7 +6955,7 @@
   "Sandi.": [
     "But",
     "I'm",
-    "(into",
+    "into",
     "Her",
     "You",
     "I'm",
@@ -6985,7 +6993,7 @@
   "you.": [
     "But",
     "Daria,",
-    "(leaves)",
+    "leaves",
     "It's",
     "Some"
   ],
@@ -7051,6 +7059,8 @@
   ],
   "gets": [
     "to",
+    "up",
+    "up",
     "to"
   ],
   "care": [
@@ -7076,9 +7086,9 @@
     "Muh-om!"
   ],
   "Muh-om!": [
-    "(writes)"
+    "writes"
   ],
-  "(writes)": [
+  "writes": [
     "Wear",
     "Bring"
   ],
@@ -7089,7 +7099,7 @@
     "lipstick."
   ],
   "lipstick.": [
-    "(writes)"
+    "writes"
   ],
   "Bring": [
     "scarf"
@@ -7153,10 +7163,10 @@
     "I"
   ],
   "so.": [
-    "(stands)",
+    "stands",
     "Well,"
   ],
-  "(stands)": [
+  "stands": [
     "Can"
   ],
   "soda?": [
@@ -7374,16 +7384,17 @@
     "upstairs."
   ],
   "upstairs.": [
-    "(leaves)",
+    "leaves",
     "Thank",
     "Moving"
   ],
-  "(leaves)": [
+  "leaves": [
     "Stop!",
     "Caramel...",
     "So",
     "Oh,",
-    "I'll"
+    "I'll",
+    "And"
   ],
   "Stop!": [
     "Oh,"
@@ -7511,12 +7522,16 @@
     "your"
   ],
   "mother.": [
-    "(phone"
+    "phone"
   ],
-  "(phone": [
-    "rings)"
+  "phone": [
+    "rings",
+    "back",
+    "Hello?",
+    "Really?",
+    "now."
   ],
-  "rings)": [
+  "rings": [
     "Oops."
   ],
   "Oops.": [
@@ -7624,10 +7639,6 @@
   "cordless": [
     "phone"
   ],
-  "phone": [
-    "back",
-    "now."
-  ],
   "please.": [
     "Nothing."
   ],
@@ -7639,17 +7650,7 @@
     "well,"
   ],
   "runway.": [
-    "(in"
-  ],
-  "(in": [
-    "phone)"
-  ],
-  "phone)": [
-    "Hello?",
-    "Really?"
-  ],
-  "(into": [
-    "phone)"
+    "in"
   ],
   "sounds": [
     "cute,"
@@ -7668,13 +7669,10 @@
     "I'll"
   ],
   "'Bye.": [
-    "(hangs"
+    "hangs"
   ],
-  "(hangs": [
-    "up)"
-  ],
-  "up)": [
-    "Poor"
+  "hangs": [
+    "up"
   ],
   "Poor": [
     "Sandi.",
@@ -8123,7 +8121,7 @@
   "maybe.": [
     "No."
   ],
-  "(screams)": [
+  "screams": [
     "Daria,"
   ],
   "found": [
@@ -8204,14 +8202,16 @@
     "Guys?"
   ],
   "Guys?": [
-    "(walks"
+    "walks"
   ],
-  "(walks": [
-    "past)",
-    "away)"
+  "walks": [
+    "past",
+    "out",
+    "away"
   ],
-  "past)": [
-    "Hi."
+  "past": [
+    "Hi.",
+    "few"
   ],
   "velvet": [
     "rope"
@@ -8444,12 +8444,12 @@
     "Bye!"
   ],
   "outfit?": [
-    "(clears"
+    "clears"
   ],
-  "(clears": [
-    "throat)"
+  "clears": [
+    "throat"
   ],
-  "throat)": [
+  "throat": [
     "Does"
   ],
   "Does": [
@@ -8538,14 +8538,10 @@
     "Than"
   ],
   "outfits?": [
-    "(enters"
+    "enters"
   ],
-  "(enters": [
-    "room)"
-  ],
-  "room)": [
-    "Guess",
-    "Oh,"
+  "enters": [
+    "room"
   ],
   "job": [
     "at"
@@ -8574,7 +8570,7 @@
     "polish."
   ],
   "polish.": [
-    "(leaves)"
+    "leaves"
   ],
   "\"less": [
     "is"
@@ -8635,9 +8631,9 @@
     "doctor,"
   ],
   "attack!": [
-    "(wails)"
+    "wails"
   ],
-  "(wails)": [
+  "wails": [
     "Oh!"
   ],
   "Oh!": [
@@ -8766,26 +8762,25 @@
     "I"
   ],
   "music.": [
-    "(turns"
+    "turns"
   ],
-  "(turns": [
-    "on"
+  "turns": [
+    "on",
+    "out"
   ],
   "light": [
     "pop"
   ],
   "pop": [
-    "music)",
+    "music",
     "out"
   ],
-  "music)": [
-    "Forget"
+  "music": [
+    "Forget",
+    "I"
   ],
   "Forget": [
     "it."
-  ],
-  "music": [
-    "I"
   ],
   "listen": [
     "to.",
@@ -8804,9 +8799,9 @@
     "or"
   ],
   "not?": [
-    "(offscreen)"
+    "offscreen"
   ],
-  "(offscreen)": [
+  "offscreen": [
     "I'll"
   ],
   "here!": [
@@ -8896,9 +8891,9 @@
     "Oh,"
   ],
   "probably.": [
-    "(giggles)"
+    "giggles"
   ],
-  "(giggles)": [
+  "giggles": [
     "Oh,",
     "Okay,"
   ],
@@ -9062,7 +9057,7 @@
   "Night's": [
     "not"
   ],
-  "(warily)": [
+  "warily": [
     "Yeah..."
   ],
   "Yeah...": [
@@ -9111,15 +9106,15 @@
     "Bye."
   ],
   "Bye.": [
-    "(exits",
+    "exits",
     "What!",
     "What?"
   ],
-  "(exits": [
+  "exits": [
     "living"
   ],
   "living": [
-    "room)",
+    "room",
     "room"
   ],
   "look!": [
@@ -9188,29 +9183,19 @@
     "education.\""
   ],
   "education.\"": [
-    "(giggles)"
+    "giggles"
   ],
   "Daria's": [
     "talking",
     "package."
   ],
   "now.": [
-    "(gets",
+    "gets",
     "Oh",
     "Oh,"
   ],
-  "(gets": [
-    "up",
-    "up"
-  ],
   "table": [
     "and"
-  ],
-  "walks": [
-    "out)"
-  ],
-  "out)": [
-    "Actually,"
   ],
   "scarf.": [
     "It's"
@@ -9259,12 +9244,12 @@
     "kit."
   ],
   "kit.": [
-    "(laughs"
+    "laughs"
   ],
-  "(laughs": [
-    "nervously)"
+  "laughs": [
+    "nervously"
   ],
-  "nervously)": [
+  "nervously": [
     "Um,"
   ],
   "sweet.": [
@@ -9274,10 +9259,7 @@
     "too"
   ],
   "behind!": [
-    "(walks"
-  ],
-  "away)": [
-    "I"
+    "walks"
   ],
   "extravaganza.": [
     "The"
@@ -9853,7 +9835,7 @@
   ],
   "room.": [
     "I",
-    "(gets",
+    "gets",
     "Mo-om!"
   ],
   "disturbed.": [
@@ -10054,25 +10036,23 @@
     "suggest."
   ],
   "suggest.": [
-    "(Daria"
-  ],
-  "(Daria": [
-    "reaches"
+    "Daria"
   ],
   "reaches": [
     "for"
   ],
-  "cards)": [
+  "cards": [
     "Daria!"
   ],
   "personal!": [
-    "(reads"
+    "reads"
   ],
-  "(reads": [
+  "reads": [
     "first",
-    "second"
+    "second",
+    "third"
   ],
-  "card)": [
+  "card": [
     "\"Happy",
     "\"I'll",
     "\"These"
@@ -10094,10 +10074,10 @@
     "Jeffy.\""
   ],
   "Joey.\"": [
-    "(reads"
+    "reads"
   ],
   "second": [
-    "card)"
+    "card"
   ],
   "\"I'll": [
     "always"
@@ -10106,16 +10086,13 @@
     "Love,"
   ],
   "Jeffy.\"": [
-    "(laughs,"
+    "laughs,"
   ],
-  "(laughs,": [
+  "laughs,": [
     "then"
   ],
-  "reads": [
-    "third"
-  ],
   "third": [
-    "card)"
+    "card"
   ],
   "\"These": [
     "flowers"
@@ -10244,15 +10221,15 @@
     "so"
   ],
   "means...": [
-    "(flips"
+    "flips"
   ],
-  "(flips": [
+  "flips": [
     "through"
   ],
   "wall": [
-    "calendar)"
+    "calendar"
   ],
-  "calendar)": [
+  "calendar": [
     "Wow,"
   ],
   "six-month": [
@@ -10308,9 +10285,6 @@
     "then",
     "if"
   ],
-  "leaves)": [
-    "And"
-  ],
   "sneakers": [
     "to"
   ],
@@ -10345,9 +10319,6 @@
   ],
   "missed": [
     "her"
-  ],
-  "past": [
-    "few"
   ],
   "few": [
     "weeks."
@@ -10805,9 +10776,6 @@
   ],
   "decide": [
     "because"
-  ],
-  "turns": [
-    "out"
   ],
   "ones?": [
     "I"

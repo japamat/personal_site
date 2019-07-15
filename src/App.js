@@ -1,12 +1,18 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
 import './App.css';
-import Ipsum from './Components/IpsumGenerator/Ipsum';
-import Terminal from './Components/Terminal/Terminal';
+import Routes from './Components/Routes';
+import NavBar from './Components/NavBar';
 
 function App() {
   return (
     <div className="App">
-      <Terminal />
+      <BrowserRouter>
+        <NavBar />
+        <div className="site-content">
+          <Routes />
+        </div>
+      </BrowserRouter>
     </div>
   );
 }

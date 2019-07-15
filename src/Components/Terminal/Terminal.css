@@ -1,7 +1,5 @@
-body {
-    background-color: black;
-}
-
 .terminal-div{
-    margin-top: 25px;
+    height: 100vh;
+    background-color: black;
+    padding-top: 25px;
 }

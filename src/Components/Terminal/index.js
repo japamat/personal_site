@@ -7,7 +7,8 @@ import {
         getHelp,
         clear,
         showPath,
-        changeDir
+        handleCD,
+        listContents
       } from './helpers';
 import rootFolder from './rootFolder';
 
@@ -19,21 +20,22 @@ export default class Terminal extends Component {
   
     // an array of objects, each one with an id, a a command, and an output
     this.state = {
-      pwd: '/Users/japamat',
+      pwd: '/users/japamat',
       commands: [],
+      loadIdx: 0, // used for when loading previous commands in output, slice from here. needs to be updated on clear
       root: rootFolder,
       validCommands: {
         pwd: showPath,
         help: getHelp,
         clear: clear,
-        cd: changeDir,
+        cd: handleCD,
+        ls: listContents,
       }
     }
 
     // this.showPath = this.showPath.bind(this);
     this.runCommand = this.runCommand.bind(this);
     this.getOutput = this.getOutput.bind(this);
-    // this.clear = this.clear.bind(this);
   }
   
   runCommand(command) {
@@ -47,8 +49,9 @@ export default class Terminal extends Component {
       id: uuid()
     }
     this.setState(st => {
-      let newCommands = [...st.commands, newCommand];
-      return {commands: newCommands};
+      return {
+        commands: [...st.commands, newCommand],
+      };
     })
   }
 
@@ -57,16 +60,21 @@ export default class Terminal extends Component {
     let commandArr = command.split(' ')
     let commandIn = commandArr[0];
     let cmdArgs = commandArr.slice(1);
-    console.log(this.state);
-    
+    const { root, pwd, validCommands } = this.state;
 
     if (commandIn === 'cd') {
-      return this.state.validCommands.cd.call(this, cmdArgs, this.state.root, this.state.pwd);
+      return validCommands.cd.call(this, cmdArgs, root, pwd);
+
     } else if (commandIn === 'clear') {
-      this.clear();
-    } else if(this.state.validCommands.hasOwnProperty(commandIn)) {
-      let fnToRun = this.state.validCommands[commandIn];
+      return validCommands.clear.call(this);
+
+    } else if (commandIn === 'ls') {
+      return validCommands.ls.call(this, cmdArgs, pwd, root);
+
+    } else if(validCommands.hasOwnProperty(commandIn)) {
+      let fnToRun = validCommands[commandIn];
       return fnToRun.call(this, cmdArgs);
+
     } else {
       return `-bash: ${commandIn}: command not found`;
     }
@@ -78,14 +86,23 @@ export default class Terminal extends Component {
    */
 
   render() {
-    let { commands } = this.state
-    let prevCommands = !commands.length
+    let { commands, loadIdx } = this.state;
+    /**
+     * if there are previous commands to show, show them
+     */
+    let ranCommands = !commands.length
       ? null
-      : commands.map(command => (<OutputLine key={command.id} input={command.input} output={command.output} dir={command.dir} />));
+      : commands.slice(loadIdx).map(command => (<OutputLine key={command.id} input={command.input} output={command.output} dir={command.dir} />));
     return (
       <div className="terminal-div" >
-        {prevCommands}
-        <InputLine runCommand={this.runCommand} prevCommands={this.state.commands.map(c => c.input)} idx={this.state.commands.length} pwd={this.state.pwd} root={this.state.root} />
+        {ranCommands}
+        <InputLine 
+          runCommand={this.runCommand}
+          commands={commands.map(c => c.input)}
+          prevCommands={commands.map(c => c.input)}
+          idx={commands.length}
+          pwd={this.state.pwd}
+          root={this.state.root} />
       </div>
     )
   }

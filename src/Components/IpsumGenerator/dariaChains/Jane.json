@@ -447,7 +447,7 @@
     "win",
     "Kevin",
     "his",
-    "Daria)",
+    "Daria",
     "make",
     "have",
     "see",
@@ -1616,7 +1616,7 @@
     "whole",
     "\"help",
     "red",
-    "kitchen)",
+    "kitchen",
     "kitchen,",
     "toilets.",
     "sandwiches.",
@@ -2031,7 +2031,7 @@
     "home",
     "tape.",
     "this",
-    "glass)",
+    "glass",
     "Thanksgiving",
     "your",
     "way",
@@ -2105,8 +2105,8 @@
   "this?": [
     "I",
     "Don't",
-    "(shouts)",
-    "(shouts)"
+    "shouts",
+    "shouts"
   ],
   "someplace": [
     "to"
@@ -2555,6 +2555,7 @@
     "sick.",
     "will",
     "and",
+    "See",
     "show"
   ],
   "sick.": [
@@ -3164,7 +3165,7 @@
   ],
   "this.": [
     "I",
-    "(sings",
+    "sings",
     "This"
   ],
   "can": [
@@ -3572,7 +3573,7 @@
   ],
   "Later.": [
     "You",
-    "(sleepily)"
+    "sleepily"
   ],
   "mean": [
     "like",
@@ -4184,7 +4185,8 @@
     "was",
     "a",
     "Morgendorffer",
-    "your"
+    "your",
+    "He"
   ],
   "thinks": [
     "the"
@@ -4424,7 +4426,7 @@
     "They're",
     "Now,",
     "Hysterical",
-    "(Jane",
+    "Jane",
     "What",
     "A"
   ],
@@ -5488,6 +5490,7 @@
   ],
   "away": [
     "the",
+    "I",
     "from",
     "from"
   ],
@@ -6260,7 +6263,7 @@
   "Daria's": [
     "an",
     "life",
-    "notepad)",
+    "notepad",
     "face,"
   ],
   "early": [
@@ -6556,7 +6559,9 @@
   ],
   "leaves": [
     "rustle.",
-    "the"
+    "So",
+    "the",
+    "I'm"
   ],
   "rustle.": [
     "Maybe"
@@ -6770,6 +6775,7 @@
     "some",
     "to",
     "its",
+    "If",
     "academic",
     "and",
     "from",
@@ -6783,7 +6789,7 @@
     "after",
     "after"
   ],
-  "(shouts)": [
+  "shouts": [
     "You",
     "Burger!"
   ],
@@ -7135,11 +7141,7 @@
     "You"
   ],
   "well.": [
-    "(leaves)"
-  ],
-  "(leaves)": [
-    "So",
-    "I'm"
+    "leaves"
   ],
   "Helen": [
     "actually"
@@ -7174,6 +7176,7 @@
   "gets": [
     "back",
     "through",
+    "into",
     "old?"
   ],
   "painted": [
@@ -7439,21 +7442,21 @@
     "the"
   ],
   "noose.": [
-    "(muffled)"
+    "muffled"
   ],
-  "(muffled)": [
+  "muffled": [
     "Kevin!"
   ],
   "Kevin!": [
     "Kevin!",
-    "(pounds",
+    "pounds",
     "Kevin!",
     "Daria?"
   ],
-  "(pounds": [
+  "pounds": [
     "on"
   ],
-  "glass)": [
+  "glass": [
     "Kevin!"
   ],
   "wedding?": [
@@ -7609,7 +7612,7 @@
   "TV": [
     "screen.",
     "dinner.",
-    "off)"
+    "off"
   ],
   "screen.": [
     "Uh,"
@@ -7665,12 +7668,13 @@
     "left."
   ],
   "left.": [
-    "(signs"
+    "signs"
   ],
-  "(signs": [
-    "sheet)"
+  "signs": [
+    "sheet",
+    "Sounds"
   ],
-  "sheet)": [
+  "sheet": [
     "Wait!"
   ],
   "Wait!": [
@@ -7727,7 +7731,8 @@
     "in"
   ],
   "Jane": [
-    "Lane's"
+    "Lane's",
+    "and"
   ],
   "Lane's": [
     "arts"
@@ -7823,7 +7828,7 @@
   ],
   "walk": [
     "to",
-    "away)"
+    "away"
   ],
   "butcher?": [
     "This"
@@ -7981,7 +7986,7 @@
   ],
   "Day?": [
     "Yo.",
-    "(feigns"
+    "feigns"
   ],
   "Yo.": [
     "Sure",
@@ -8011,10 +8016,10 @@
   "bollocks!": [
     "No"
   ],
-  "(feigns": [
-    "sobbing)"
+  "feigns": [
+    "sobbing"
   ],
-  "sobbing)": [
+  "sobbing": [
     "That's"
   ],
   "mission.": [
@@ -8260,9 +8265,9 @@
     "available."
   ],
   "available.": [
-    "(glances"
+    "glances"
   ],
-  "(glances": [
+  "glances": [
     "around"
   ],
   "around": [
@@ -8276,10 +8281,7 @@
     "wanted\""
   ],
   "wanted\"": [
-    "signs)"
-  ],
-  "signs)": [
-    "Sounds"
+    "signs"
   ],
   "Hmm.": [
     "Nothing.",
@@ -8290,25 +8292,25 @@
     "The"
   ],
   "Nothing.": [
-    "(looks"
+    "looks"
   ],
-  "(looks": [
-    "at"
+  "looks": [
+    "at",
+    "more",
+    "just"
   ],
   "red": [
-    "stain)"
+    "stain"
   ],
-  "stain)": [
-    "What"
+  "stain": [
+    "What",
+    "to",
+    "looks"
   ],
   "is?": [
     "No,",
     "Mm.",
     "You're"
-  ],
-  "looks": [
-    "more",
-    "just"
   ],
   "cranberry": [
     "juice.",
@@ -8400,9 +8402,9 @@
     "office."
   ],
   "office.": [
-    "(tucks"
+    "tucks"
   ],
-  "(tucks": [
+  "tucks": [
     "newspaper"
   ],
   "newspaper": [
@@ -8416,8 +8418,9 @@
   "arm": [
     "and"
   ],
-  "kitchen)": [
-    "Whatever."
+  "kitchen": [
+    "Whatever.",
+    "with"
   ],
   "Whatever.": [
     "It's"
@@ -8490,9 +8493,9 @@
     "the"
   ],
   "sandwiches.": [
-    "(quietly)"
+    "quietly"
   ],
-  "(quietly)": [
+  "quietly": [
     "How"
   ],
   "its": [
@@ -8502,7 +8505,7 @@
     "little"
   ],
   "wings?": [
-    "(leaves)"
+    "leaves"
   ],
   "picky.": [
     "The"
@@ -8729,7 +8732,7 @@
   ],
   "time.": [
     "Baked,",
-    "(sings",
+    "sings",
     "Well,",
     "Uh-oh,",
     "Maybe",
@@ -9016,13 +9019,11 @@
     "Yes,"
   ],
   "TV.": [
-    "(turns"
+    "turns"
   ],
-  "(turns": [
-    "TV"
-  ],
-  "off)": [
-    "If"
+  "turns": [
+    "TV",
+    "out"
   ],
   "aliens": [
     "smart"
@@ -9123,9 +9124,9 @@
     "for"
   ],
   "could.": [
-    "(voiceover)"
+    "voiceover"
   ],
-  "(voiceover)": [
+  "voiceover": [
     "Neck"
   ],
   "ahead.": [
@@ -9244,10 +9245,10 @@
     "does."
   ],
   "else.": [
-    "(tiredly)",
+    "tiredly",
     "Get"
   ],
-  "(tiredly)": [
+  "tiredly": [
     "What"
   ],
   "klutzy.": [
@@ -9418,11 +9419,11 @@
   "yeah": [
     "--"
   ],
-  "(sings": [
-    "off-key)",
-    "off-key)"
+  "sings": [
+    "off-key",
+    "off-key"
   ],
-  "off-key)": [
+  "off-key": [
     "\"Old",
     "\"Old"
   ],
@@ -9501,7 +9502,7 @@
   ],
   "ride.": [
     "I'll",
-    "(gets"
+    "gets"
   ],
   "back.": [
     "You",
@@ -9513,7 +9514,7 @@
   "set.": [
     "Later."
   ],
-  "(sleepily)": [
+  "sleepily": [
     "Yeah?"
   ],
   "Yeah?": [
@@ -9591,7 +9592,7 @@
   ],
   "another": [
     "two",
-    "booth)"
+    "booth"
   ],
   "hours.": [
     "Hey.",
@@ -9637,9 +9638,9 @@
     "in"
   ],
   "raccoons.": [
-    "(yawns)"
+    "yawns"
   ],
-  "(yawns)": [
+  "yawns": [
     "You"
   ],
   "breakfast?": [
@@ -9724,14 +9725,8 @@
   "fellow.": [
     "Hey,"
   ],
-  "(gets": [
-    "into"
-  ],
   "Tom's": [
-    "car)"
-  ],
-  "car)": [
-    "See"
+    "car"
   ],
   "See": [
     "you",
@@ -9845,12 +9840,6 @@
   ],
   "sweet-talker,": [
     "you."
-  ],
-  "(Jane": [
-    "and"
-  ],
-  "away)": [
-    "I"
   ],
   "high-school": [
     "sweetheart"
@@ -10120,12 +10109,12 @@
     "and"
   ],
   "chimp.": [
-    "(grabs"
+    "grabs"
   ],
-  "(grabs": [
+  "grabs": [
     "Daria's"
   ],
-  "notepad)": [
+  "notepad": [
     "\"Armpits"
   ],
   "\"Armpits": [
@@ -10641,9 +10630,6 @@
   ],
   "clutter": [
     "up"
-  ],
-  "kitchen": [
-    "with"
   ],
   "food.": [
     "Now,"
@@ -11354,7 +11340,7 @@
   ],
   "there?": [
     "Aw,",
-    "(pan"
+    "pan"
   ],
   "fun?": [
     "Come"
@@ -11561,13 +11547,13 @@
     "Go"
   ],
   "on.": [
-    "(resumes",
+    "resumes",
     "So"
   ],
-  "(resumes": [
-    "gluing)"
+  "resumes": [
+    "gluing"
   ],
-  "gluing)": [
+  "gluing": [
     "Wow."
   ],
   "sound": [
@@ -11613,9 +11599,9 @@
     "from"
   ],
   "...": [
-    "(sees"
+    "sees"
   ],
-  "(sees": [
+  "sees": [
     "sour"
   ],
   "sour": [
@@ -11628,9 +11614,9 @@
     "backpedaling"
   ],
   "backpedaling": [
-    "fast)"
+    "fast"
   ],
-  "fast)": [
+  "fast": [
     "But"
   ],
   "song.": [
@@ -11676,7 +11662,7 @@
   "first?": [
     "See"
   ],
-  "(pan": [
+  "pan": [
     "to"
   ],
   "Three": [
@@ -11685,7 +11671,7 @@
   "J's": [
     "at"
   ],
-  "booth)": [
+  "booth": [
     "I"
   ],
   "he'll": [
@@ -11706,13 +11692,10 @@
     "You're"
   ],
   "talents.": [
-    "(hands"
+    "hands"
   ],
-  "(hands": [
+  "hands": [
     "money"
-  ],
-  "Daria)": [
-    "He"
   ],
   "run": [
     "off"
@@ -11755,9 +11738,6 @@
   ],
   "thunk": [
     "it?"
-  ],
-  "turns": [
-    "out"
   ],
   "superintelligence": [
     "is"
@@ -11818,10 +11798,6 @@
   ],
   "friend": [
     "to"
-  ],
-  "stain": [
-    "to",
-    "looks"
   ],
   "Barbie's": [
     "corvette"

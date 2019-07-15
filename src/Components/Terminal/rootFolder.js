@@ -1,12 +1,21 @@
 let rootFolder = {
-  Users: {
+  users: {
     japamat: {
-      dir1: {
-          data1: 'first data'
-        },
-        dir2: {
-          data2: 'second data'
+      home : {
+        'welcome.txt': 'Welcome to my website!'
+      },
+      about: {
+        data1: 'first data'
+      },
+      projects: {
+        data2: 'second data',
+        '.hidden_folder': {
+          secret_data: 'hello world!'
         }
+      },
+      contact: {
+
+      }
     }
   }
 }

@@ -22,13 +22,13 @@ export default class InputLine extends Component {
     if (e.keyCode === 38) {
       e.preventDefault()
       this.setState(st => ({
-        command: this.props.prevCommands[this.state.idx],
+        command: this.props.prevCommands[this.state.idx] || '',
         idx: Math.max((this.state.idx - 1), 0)
       }));
       // arrow key down
     } else if (e.keyCode === 40) {
         this.setState(st => ({
-          command: this.props.prevCommands[this.state.idx],
+          command: this.props.prevCommands[this.state.idx] || '',
           idx: Math.min((this.state.idx + 1), this.props.idx - 1)
         }));
       // other typing input
@@ -51,19 +51,20 @@ export default class InputLine extends Component {
     const { command } = this.state;
     this.props.runCommand(command);
     this.setState(st => ({
-      command: '',
-      idx: this.props.idx
+      command: '', // clear out command
+      idx: this.props.idx // go back to most recent entered command for up/down arrow
     }));
   }
 
 	render() {
     const shortPath = this.props.pwd.slice(this.props.pwd.lastIndexOf('/') + 1);
+    
 		return (
 			<div className="input-line" >
         <form onSubmit={this.handleSubmit} className="input-form" >
-        <label className="" htmlFor="command">{shortPath} $ </label>
+        <label className="" htmlFor="command">{shortPath.length? shortPath : '/'} ${`\xa0`}</label>
           <input
-            onKeyUp={this.getPrevCommand}
+            onKeyDown={this.getPrevCommand}
             autoComplete="off"
             id="cli-input"
             onChange={this.handleChange}

@@ -3,6 +3,7 @@ import './OutputLine.css';
 
 export default class OutputLine extends Component {
   render() {
+ 
     const dirToShow = this.props.dir.split('/').pop();
     return (
       <div className="output-line" >

@@ -1333,6 +1333,7 @@
     "prove",
     "the",
     "switch",
+    "family",
     "ask",
     "me",
     "any",
@@ -1363,7 +1364,7 @@
     "mention",
     "be",
     "answer",
-    "Helen)",
+    "Helen",
     "kick",
     "kill",
     "drum",
@@ -1384,6 +1385,7 @@
     "your",
     "begin",
     "school.",
+    "Jane",
     "see",
     "buy",
     "meet",
@@ -1402,6 +1404,8 @@
     "you",
     "work",
     "tick",
+    "no",
+    "Jodie",
     "work?",
     "the",
     "sit",
@@ -1409,7 +1413,7 @@
     "forego",
     "attend",
     "tell",
-    "Jane)",
+    "Jane",
     "turn",
     "be",
     "protect",
@@ -1578,7 +1582,7 @@
     "for",
     "from",
     "upstairs,",
-    "aside)",
+    "aside",
     "kind",
     "makes",
     "out",
@@ -2962,7 +2966,7 @@
   ],
   "Bye!": [
     "Hi,",
-    "(leaves)"
+    "leaves"
   ],
   "Hi,": [
     "Kevin!",
@@ -3555,7 +3559,7 @@
     "see",
     "says,",
     "a",
-    "frowns)",
+    "frowns",
     "mate.",
     "hands",
     "couldn't",
@@ -3573,7 +3577,7 @@
     "me?",
     "I",
     "this",
-    "leaves)",
+    "leaves",
     "ethical",
     "pick",
     "Kevin",
@@ -3790,7 +3794,7 @@
     "music",
     "beat.",
     "went",
-    "car)",
+    "car",
     "me.",
     "you,",
     "hysterical",
@@ -3937,7 +3941,7 @@
     "Mmm,",
     "You're",
     "get",
-    "(shouts)",
+    "shouts",
     "Get",
     "See",
     "We",
@@ -4445,7 +4449,7 @@
     "We",
     "What's",
     "I'm",
-    "(gets",
+    "gets",
     "No.",
     "No,",
     "Define,",
@@ -5202,7 +5206,7 @@
   "see.": [
     "All",
     "Look,",
-    "(looks",
+    "looks",
     "Walking"
   ],
   "All": [
@@ -5339,7 +5343,7 @@
     "the",
     "a",
     "two",
-    "particular)",
+    "particular",
     "the",
     "the",
     "woodshop",
@@ -6124,6 +6128,7 @@
     "his",
     "the",
     "it.",
+    "phone",
     "a",
     "a",
     "revealing",
@@ -6290,7 +6295,7 @@
     "last",
     "the",
     "his",
-    "Jane)",
+    "Jane",
     "kitchen",
     "the",
     "thought,",
@@ -6306,7 +6311,7 @@
     "its",
     "Jane's.",
     "this!",
-    "hand)",
+    "hand",
     "all.",
     "this",
     "all."
@@ -6549,6 +6554,10 @@
     "me",
     "Agility\"",
     "the",
+    "phone",
+    "phone",
+    "phone",
+    "phone",
     "he",
     "something?",
     "me",
@@ -6809,9 +6818,9 @@
     "The",
     "Well,",
     "I",
-    "(points",
+    "points",
     "You're",
-    "(sighs)",
+    "sighs",
     "I'm"
   ],
   "Breathing?": [
@@ -6995,6 +7004,8 @@
     "and",
     "of",
     "of",
+    "Um...",
+    "loud",
     "for",
     "of",
     "with",
@@ -7033,7 +7044,7 @@
     "I",
     "She's",
     "I'm",
-    "(answers)",
+    "answers",
     "Tad?",
     "Damn."
   ],
@@ -7305,7 +7316,7 @@
   "Brittany's": [
     "house?",
     "attempt",
-    "direction)",
+    "direction",
     "party?"
   ],
   "house?": [
@@ -8249,7 +8260,7 @@
     "nope.",
     "what?!",
     "I",
-    "(looks",
+    "looks",
     "lot"
   ],
   "depends": [
@@ -8276,6 +8287,7 @@
     "myself,",
     "and",
     "till",
+    "Lawsuit.",
     "with",
     "business?",
     "studying",
@@ -8291,6 +8303,7 @@
     "doing",
     "with",
     "this",
+    "Huh?",
     "with",
     "with",
     "a",
@@ -9576,6 +9589,8 @@
     "upset,",
     "the",
     "better.",
+    "out",
+    "up",
     "easier",
     "lost",
     "all",
@@ -9668,7 +9683,7 @@
   ],
   "seeing": [
     "an",
-    "Tiffany)",
+    "Tiffany",
     "you"
   ],
   "airplane": [
@@ -9904,7 +9919,7 @@
     "Thomas",
     "You",
     "I",
-    "(upbeat)",
+    "upbeat",
     "Part",
     "Oh,",
     "The"
@@ -9917,7 +9932,7 @@
     "Wait",
     "Don't",
     "Of",
-    "(into",
+    "into",
     "Sorry.",
     "Um,",
     "Gee,"
@@ -10062,7 +10077,8 @@
     "she"
   ],
   "turns": [
-    "my"
+    "my",
+    "and"
   ],
   "named": [
     "Skylar",
@@ -10295,7 +10311,7 @@
   "Bye.": [
     "Ten",
     "Mail's",
-    "(hangs"
+    "hangs"
   ],
   "Ten": [
     "dollar",
@@ -10365,7 +10381,7 @@
     "I'm",
     "Accountant?",
     "Is",
-    "(pause)",
+    "pause",
     "Are",
     "I"
   ],
@@ -10707,7 +10723,7 @@
   ],
   "times.": [
     "Prepare",
-    "(nearly",
+    "nearly",
     "They're",
     "Oh"
   ],
@@ -10981,7 +10997,7 @@
   "Trent?": [
     "I",
     "Define",
-    "(on",
+    "on",
     "Trent!",
     "Are",
     "Hello?",
@@ -12259,8 +12275,11 @@
   ],
   "away": [
     "the",
+    "Yeah.",
     "my",
     "for",
+    "So,",
+    "Excuse",
     "now",
     "from",
     "from",
@@ -12518,7 +12537,7 @@
   "up?": [
     "Twenty.",
     "Okay,",
-    "(on"
+    "on"
   ],
   "Twenty.": [
     "Done."
@@ -12843,7 +12862,7 @@
   "not?": [
     "And",
     "I'm",
-    "(to",
+    "to",
     "Of"
   ],
   "done": [
@@ -12871,9 +12890,13 @@
   ],
   "looks": [
     "mature",
+    "at",
     "kind",
+    "at",
     "like",
     "like",
+    "at",
+    "up",
     "well"
   ],
   "mature": [
@@ -13632,7 +13655,7 @@
     "Listen,",
     "Ugh.",
     "\"Is",
-    "(looks",
+    "looks",
     "I",
     "Don't",
     "Of",
@@ -13722,7 +13745,7 @@
   "Oh.": [
     "Um,",
     "If",
-    "(dejected)",
+    "dejected",
     "I",
     "Christmas,",
     "Are",
@@ -13946,7 +13969,7 @@
   "bad.": [
     "What?"
   ],
-  "(shouts)": [
+  "shouts": [
     "What?",
     "You",
     "Okay,"
@@ -13971,7 +13994,7 @@
   ],
   "bathroom.": [
     "Brittany?",
-    "(leaves)",
+    "leaves",
     "Is"
   ],
   "Who's": [
@@ -13990,7 +14013,7 @@
   "know.": [
     "Uh,",
     "Who",
-    "(crumples",
+    "crumples",
     "Let's",
     "And",
     "In",
@@ -14008,7 +14031,10 @@
     "and",
     "can't",
     "Lane.",
+    "Trade",
     "went",
+    "Sure,",
+    "You",
     "on"
   ],
   "leave?": [
@@ -14555,9 +14581,9 @@
     "Marcia."
   ],
   "Marcia.": [
-    "(blushes)"
+    "blushes"
   ],
-  "(blushes)": [
+  "blushes": [
     "Trent,"
   ],
   "Trent,": [
@@ -14578,22 +14604,23 @@
     "phones."
   ],
   "phones.": [
-    "(to"
+    "to"
   ],
-  "(to": [
-    "family)",
-    "Jane)",
-    "no",
-    "Jodie)"
-  ],
-  "family)": [
-    "I'll"
+  "family": [
+    "I'll",
+    "makes",
+    "to",
+    "life.",
+    "in",
+    "babble",
+    "has",
+    "wedding,"
   ],
   "upstairs,": [
     "okay?"
   ],
   "okay?": [
-    "(shouts)",
+    "shouts",
     "Just",
     "Larry's"
   ],
@@ -14607,7 +14634,7 @@
     "I"
   ],
   "up!": [
-    "(shouts)"
+    "shouts"
   ],
   "thanks,": [
     "I'll"
@@ -14620,18 +14647,14 @@
     "Sorry",
     "Hello?!"
   ],
-  "(on": [
-    "phone)",
-    "phone)",
-    "phone)",
-    "phone)"
-  ],
-  "phone)": [
+  "phone": [
     "Trent?",
     "Trent?",
     "So...",
     "So...",
-    "Hello."
+    "Hello.",
+    "for",
+    "call"
   ],
   "Trent!": [
     "Uh,"
@@ -14643,10 +14666,10 @@
     "Me?"
   ],
   "Me?": [
-    "(on"
+    "on"
   ],
   "So...": [
-    "(on",
+    "on",
     "you",
     "what"
   ],
@@ -14695,7 +14718,7 @@
     "sink.",
     "utensils.",
     "glove.\"",
-    "counter)"
+    "counter"
   ],
   "sink.": [
     "Don't"
@@ -14886,7 +14909,7 @@
     "no.",
     "you"
   ],
-  "(crumples": [
+  "crumples": [
     "story"
   ],
   "story": [
@@ -14897,7 +14920,7 @@
   "tosses": [
     "it"
   ],
-  "aside)": [
+  "aside": [
     "I"
   ],
   "mean,": [
@@ -15019,6 +15042,7 @@
   ],
   "car": [
     "and",
+    "Um...",
     "speeds",
     "right",
     "seems",
@@ -15393,13 +15417,14 @@
     "Oh,"
   ],
   "hell.": [
-    "(signs"
+    "signs"
   ],
-  "(signs": [
-    "sheet)"
+  "signs": [
+    "sheet"
   ],
-  "sheet)": [
-    "It'll"
+  "sheet": [
+    "It'll",
+    "and"
   ],
   "senile": [
     "--"
@@ -15454,9 +15479,9 @@
     "on"
   ],
   "enthusiasm?": [
-    "(mutters)"
+    "mutters"
   ],
-  "(mutters)": [
+  "mutters": [
     "How"
   ],
   "it...": [
@@ -15465,10 +15490,10 @@
   "lousy": [
     "volunteer"
   ],
-  "(upbeat)": [
+  "upbeat": [
     "Oh."
   ],
-  "(dejected)": [
+  "dejected": [
     "Oh."
   ],
   "poetry.": [
@@ -15653,15 +15678,10 @@
     "Trent?"
   ],
   "Ooh!": [
-    "(runs"
+    "runs"
   ],
-  "(runs": [
-    "away)"
-  ],
-  "away)": [
-    "Yeah.",
-    "So,",
-    "Excuse"
+  "runs": [
+    "away"
   ],
   "happening.": [
     "Cool"
@@ -15813,9 +15833,6 @@
   "magazine.": [
     "How"
   ],
-  "(into": [
-    "phone)"
-  ],
   "Hello.": [
     "Yes.",
     "No,",
@@ -15826,12 +15843,8 @@
   "isn't.": [
     "I"
   ],
-  "(hangs": [
-    "up)"
-  ],
-  "up)": [
-    "Lawsuit.",
-    "Huh?"
+  "hangs": [
+    "up"
   ],
   "Lawsuit.": [
     "\"What"
@@ -15913,12 +15926,12 @@
     "conjunctivitis?"
   ],
   "conjunctivitis?": [
-    "(tastes"
+    "tastes"
   ],
-  "(tastes": [
-    "chili)"
+  "tastes": [
+    "chili"
   ],
-  "chili)": [
+  "chili": [
     "Chili"
   ],
   "Chili": [
@@ -16105,16 +16118,7 @@
   "questions?": [
     "Let's"
   ],
-  "(looks": [
-    "at",
-    "at",
-    "at",
-    "up)"
-  ],
-  "sheet": [
-    "and"
-  ],
-  "frowns)": [
+  "frowns": [
     "Yes."
   ],
   "From": [
@@ -16153,19 +16157,21 @@
     "All"
   ],
   "mate.": [
-    "(sighs"
+    "sighs"
   ],
-  "(sighs": [
+  "sighs": [
     "heavily",
-    "as"
+    "as",
+    "It's"
   ],
   "heavily": [
     "and"
   ],
   "hands": [
-    "paper"
+    "paper",
+    "money"
   ],
-  "Helen)": [
+  "Helen": [
     "Hey,"
   ],
   "fault.": [
@@ -16211,17 +16217,17 @@
     "of"
   ],
   "time.": [
-    "(surprised",
+    "surprised",
     "Uh,",
     "I'd",
     "Excuse",
     "I",
     "1984"
   ],
-  "(surprised": [
+  "surprised": [
     "at"
   ],
-  "Tiffany)": [
+  "Tiffany": [
     "Oh."
   ],
   "counseling,": [
@@ -16254,15 +16260,15 @@
     "if"
   ],
   "graduate.": [
-    "(taps"
+    "taps"
   ],
-  "(taps": [
+  "taps": [
     "foot"
   ],
   "foot": [
-    "impatiently)"
+    "impatiently"
   ],
-  "impatiently)": [
+  "impatiently": [
     "Fun?"
   ],
   "Fun?": [
@@ -16298,7 +16304,7 @@
   ],
   "job.": [
     "It's",
-    "(closes"
+    "closes"
   ],
   "met": [
     "with",
@@ -16705,7 +16711,7 @@
   "magic": [
     "time."
   ],
-  "(answers)": [
+  "answers": [
     "Hello?"
   ],
   "happened?": [
@@ -16748,17 +16754,14 @@
     "Ah."
   ],
   "Ah.": [
-    "(pulls",
+    "pulls",
     "Yeah."
   ],
-  "(pulls": [
+  "pulls": [
     "notebook"
   ],
   "notebook": [
-    "out)"
-  ],
-  "out)": [
-    "Um..."
+    "out"
   ],
   "peek.": [
     "\"My"
@@ -16776,7 +16779,10 @@
     "leaves"
   ],
   "leaves": [
-    "of"
+    "of",
+    "No,",
+    "Hi.",
+    "Mandatory"
   ],
   "doom.\"": [
     "What?"
@@ -16804,12 +16810,13 @@
     "between"
   ],
   "tell.": [
-    "(starts"
+    "starts"
   ],
-  "(starts": [
-    "engine)"
+  "starts": [
+    "engine",
+    "to"
   ],
-  "engine)": [
+  "engine": [
     "Quinn,"
   ],
   "worried": [
@@ -16982,30 +16989,18 @@
     "that."
   ],
   "daddy-o?": [
-    "(voiceover)"
+    "voiceover"
   ],
-  "(voiceover)": [
+  "voiceover": [
     "You"
-  ],
-  "family": [
-    "makes",
-    "to",
-    "life.",
-    "in",
-    "babble",
-    "has",
-    "wedding,"
   ],
   "voices.": [
     "Get"
   ],
   "out!": [
-    "(out"
+    "out"
   ],
-  "(out": [
-    "loud)"
-  ],
-  "loud)": [
+  "loud": [
     "Well,"
   ],
   "oh": [
@@ -17013,10 +17008,6 @@
   ],
   "my,": [
     "look"
-  ],
-  "(leaves)": [
-    "No,",
-    "Hi."
   ],
   "evil": [
     "space"
@@ -17054,12 +17045,7 @@
     "the"
   ],
   "bed.": [
-    "(to"
-  ],
-  "Jane)": [
-    "Trade",
-    "Sure,",
-    "You"
+    "to"
   ],
   "Trade": [
     "you"
@@ -17126,9 +17112,9 @@
     "case."
   ],
   "case.": [
-    "(tiredly)"
+    "tiredly"
   ],
-  "(tiredly)": [
+  "tiredly": [
     "The"
   ],
   "knife": [
@@ -17137,10 +17123,10 @@
   "slipped...": [
     "67"
   ],
-  "(nearly": [
-    "unconscious)"
+  "nearly": [
+    "unconscious"
   ],
-  "unconscious)": [
+  "unconscious": [
     "Right..."
   ],
   "Right...": [
@@ -17279,13 +17265,6 @@
   "ride.": [
     "Yeah."
   ],
-  "(gets": [
-    "out",
-    "up"
-  ],
-  "car)": [
-    "Um..."
-  ],
   "tomorrow,": [
     "then."
   ],
@@ -17407,10 +17386,10 @@
     "Later."
   ],
   "Later.": [
-    "(sighs"
+    "sighs"
   ],
   "speeds": [
-    "away)"
+    "away"
   ],
   "night?": [
     "You",
@@ -17426,11 +17405,12 @@
   "nut": [
     "job."
   ],
-  "(closes": [
-    "locker)"
+  "closes": [
+    "locker"
   ],
-  "locker)": [
-    "There's"
+  "locker": [
+    "There's",
+    "get"
   ],
   "battle": [
     "of"
@@ -17457,10 +17437,10 @@
     "I"
   ],
   "am.": [
-    "(walks"
+    "walks"
   ],
-  "(walks": [
-    "away)"
+  "walks": [
+    "away"
   ],
   "alone?": [
     "Lousy"
@@ -17486,13 +17466,13 @@
   "Jodie,": [
     "why"
   ],
-  "particular)": [
+  "particular": [
     "I"
   ],
   "everybody.": [
-    "(to"
+    "to"
   ],
-  "Jodie)": [
+  "Jodie": [
     "So,"
   ],
   "work?": [
@@ -17539,13 +17519,7 @@
     "I'm"
   ],
   "hungry.": [
-    "(turns"
-  ],
-  "(turns": [
-    "and"
-  ],
-  "leaves)": [
-    "Mandatory"
+    "turns"
   ],
   "Mandatory": [
     "home-schooling"
@@ -17575,13 +17549,14 @@
     "new"
   ],
   "identity?": [
-    "(gets"
+    "gets"
   ],
   "table": [
     "to"
   ],
-  "counter)": [
-    "I"
+  "counter": [
+    "I",
+    "would"
   ],
   "bubble": [
     "of"
@@ -17652,22 +17627,21 @@
     "I"
   ],
   "arrangement.": [
-    "(resigned"
+    "resigned"
   ],
-  "(resigned": [
-    "voice)"
+  "resigned": [
+    "voice"
   ],
-  "voice)": [
-    "$50"
+  "voice": [
+    "$50",
+    "inside",
+    "is"
   ],
   "\"liver,\"": [
     "Dad."
   ],
   "coming.": [
-    "(hands"
-  ],
-  "(hands": [
-    "money"
+    "hands"
   ],
   "\"If": [
     "you"
@@ -17714,10 +17688,10 @@
     "by"
   ],
   "idea?": [
-    "(deadpan)",
+    "deadpan",
     "Look,"
   ],
-  "(deadpan)": [
+  "deadpan": [
     "Surprise."
   ],
   "Surprise.": [
@@ -17879,10 +17853,10 @@
   "quality.": [
     "And"
   ],
-  "(points": [
+  "points": [
     "in"
   ],
-  "direction)": [
+  "direction": [
     "Yeah,"
   ],
   "standards": [
@@ -17933,10 +17907,6 @@
   "Fine.": [
     "I"
   ],
-  "voice": [
-    "inside",
-    "is"
-  ],
   "stole": [
     "a"
   ],
@@ -17961,9 +17931,6 @@
   ],
   "isn't?": [
     "Anyway,"
-  ],
-  "locker": [
-    "get"
   ],
   "big?": [
     "Must"
@@ -18106,10 +18073,6 @@
   ],
   "Freeing": [
     "up"
-  ],
-  "phone": [
-    "for",
-    "call"
   ],
   "cavalcade": [
     "of"
@@ -19251,9 +19214,6 @@
   "donuts,": [
     "that"
   ],
-  "counter": [
-    "would"
-  ],
   "donuts.": [
     "Give",
     "Uh"
@@ -19592,7 +19552,7 @@
   "gentle": [
     "with"
   ],
-  "hand)": [
+  "hand": [
     "It"
   ],
   "closing": [
@@ -19691,7 +19651,7 @@
   "huh?": [
     "Just"
   ],
-  "(pause)": [
+  "pause": [
     "Ever"
   ],
   "Ever": [
@@ -19707,7 +19667,7 @@
     "or"
   ],
   "Mm.": [
-    "(looks"
+    "looks"
   ],
   "it's,": [
     "uh,"
@@ -19755,9 +19715,6 @@
   "oh,": [
     "God,",
     "call"
-  ],
-  "(sighs)": [
-    "It's"
   ],
   "anywhere.": [
     "Oh,"
@@ -21093,9 +21050,6 @@
   ],
   "marriage": [
     "starts"
-  ],
-  "starts": [
-    "to"
   ],
   "disintegrate.": [
     "Look,"

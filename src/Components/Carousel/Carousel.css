@@ -1,0 +1,43 @@
+.carousel-img {
+    position: relative;
+    width: 95vw;
+    height: 500px;
+    max-width: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+
+.carousel-btn {
+    position: relative;
+    z-index: 2;
+    background: none;
+    border: none;
+    height: 50px;
+    margin: auto auto;
+}
+
+.carousel-btn:focus {
+    outline: none;
+}
+
+.carousel-btn-prev {
+    transform: rotate(180deg);
+    left: 46px;
+}
+
+.carousel-btn-next {
+    right: 46px;
+}
+
+.carousel {
+    padding-bottom: 20px;
+}
+
+.carousel-img-desc {
+    width: 95vw;
+    height: 6rem;
+    color: white;
+    max-width: 500px;
+}

@@ -1,0 +1,8 @@
+.portfolio-div {
+    height: calc(100vh - 40px);
+}
+
+.horizontal-rule {
+    border-top: 1px solid rgb(232, 225, 222);;
+    width: 100%;
+}
