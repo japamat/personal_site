@@ -13,6 +13,8 @@
 }
 
 .mobile-menu {
+    position: relative;
+    top: -5px;
     margin-right: 100%;
     width: 0%;
     overflow: hidden;
@@ -24,17 +26,14 @@
 }
 
 .collapsed {
-    animation-duration: .5s;
+    animation-duration: .25s;
     animation-name: slideout;
 }
 
 .expanded {
-    position: relative;
-    animation-duration: .5s;
+    animation-duration: .25s;
     animation-name: slidein;
     width: 176px;
-    left: 0;
-    margin-right: 0%;
 }
 
 .nav-menu-btn {

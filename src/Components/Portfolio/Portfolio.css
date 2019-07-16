@@ -3,6 +3,6 @@
 }
 
 .horizontal-rule {
-    border-top: 1px solid rgb(232, 225, 222);;
+    border-top: 1px solid rgba(232, 225, 222, .5);;
     width: 100%;
 }

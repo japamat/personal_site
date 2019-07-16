@@ -1,3 +1,3 @@
 ## Ipsum Generator
 
-I build a web scraper to get the character's lines using Express.js and Cheerio.js. You can check it out [here](https://github.com/japamat/daria-scraper/blob/master/dariaScraper.js)  
+I built a web scraper to get the character's lines using Express.js and Cheerio.js. The ipsum generator uses whats known as a [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain). Basically, for a given character, the scraper goes through every line and episode, in order, and places all of their words into an array. Once complete, the array is traveresed and an object is created with every word being a key with an array of all the words that have come after it. To generate ipsum, you pick a starter word at random, and one of the words that has come after it at random as well. The word that follows becomes your new key. You can check it out the scraper [here](https://github.com/japamat/daria-scraper/blob/master/dariaScraper.js)  

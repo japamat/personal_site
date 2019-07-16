@@ -36,12 +36,12 @@ class Carousel extends Component {
             {imgs[idx].desc}
           </div>
           <div className="d-flex">
-            <button className="carousel-btn carousel-btn-prev" onClick={() => this.handleClick(idx - 1)} ><Icon name="gt-arrow" width={24} /></button>
+            <button className="carousel-btn carousel-btn-prev" onClick={() => this.handleClick(idx - 1)} ><Icon name="gt-arrow" width={40} /></button>
             <div
               className="carousel-img"
               style={imgStyles}
             />
-            <button className="carousel-btn carousel-btn-next" onClick={() => this.handleClick(idx + 1)} ><Icon name="gt-arrow" width={24} /></button>
+            <button className="carousel-btn carousel-btn-next" onClick={() => this.handleClick(idx + 1)} ><Icon name="gt-arrow" width={40} /></button>
 
           </div>
         </div>

@@ -1,7 +1,13 @@
 .japamat-card {
     padding: 5vw 2vw;
+    width: 100%;
 }
 
 .card-img {
-    border-radius: 10%;
+    max-width: 300px;
+    border-radius: 2%;
+}
+
+.link-icon {
+    transform: rotate(135deg);
 }

@@ -6,6 +6,8 @@ import Copy from "./Copy";
 import Menu from "./Menu";
 import LessThanArrow from "./LessThanArrow";
 import GreaterThanArrow from "./GreaterThanArrow";
+import GitHub from "./GitHub";
+import Hyperlink from "./Link";
 
 const Icon = props => {
   switch (props.name) {
@@ -26,6 +28,12 @@ const Icon = props => {
 
     case "gt-arrow":
       return <GreaterThanArrow {...props} />;
+
+    case "github":
+      return <GitHub {...props} />;
+
+    case "link":
+      return <Hyperlink {...props} />;
 
     default:
       return;
