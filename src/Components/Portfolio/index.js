@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Card from '../Card';
-import { projects } from './PortfolioContent';
+import { projects, portfolioIntro } from './PortfolioContent';
 import './Portfolio.css';
 
 class Portfolio extends Component {
@@ -8,17 +8,16 @@ class Portfolio extends Component {
     const { Warbler, DariaIpsum, Jobly, Terminal, gifsmos } = projects;
     const hr = <hr className="horizontal-rule"></hr>;
     return (
-      <div className="container">
-        <div className="d-flex flex-column align-items-center portfolio-div mt-3">
-          <Card {...gifsmos} skillsTitle='stack' />
-          {hr}
-          <Card {...Jobly} skillsTitle='stack' />
-          {hr}
-          <Card {...DariaIpsum} skillsTitle='stack' />
-          {hr}
-          <Card {...Terminal} skillsTitle='stack' />
-          {hr}
-          <Card {...Warbler} skillsTitle='stack' />
+      <div className="portfolio-wrapper">
+        <div className="portfolio-header">
+          <h2>Portfolio</h2>
+          {portfolioIntro}
+        </div>
+        <div className="d-flex justify-content-around flex-wrap">
+          <Card {...Terminal} />
+          <Card {...Warbler} />
+          <Card {...gifsmos} />
+          <Card {...DariaIpsum} />
         </div>
       </div>
     )

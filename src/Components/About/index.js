@@ -4,7 +4,7 @@ import { AboutImgs, AboutIntro } from './AboutContent';
 import './About.css';
 
 class About extends Component {
-  render() {
+  render () {
     return (
       <div className="container">
         <div className="about-div" >
