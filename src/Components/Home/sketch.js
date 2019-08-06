@@ -42,11 +42,14 @@ export default function sketch (p) {
     [`Jason knows...`, `PostgreSQL`],
   ];
   
-  let x = Math.floor(Math.random() * window.innerWidth - 260);
-  let y = Math.floor(Math.random() * window.innerHeight - 75);
+  const IS_MOBILE = isMobile();
+  const SCREEN = screenDimensions();
   
-  let xVelocity = 3;
-  let yVelocity = 3;
+  let x = Math.floor(window.innerWidth / 2 - 130);
+  let y = Math.floor(window.innerHeight / 3 - 37.5);
+  
+  let xVelocity = 0;
+  let yVelocity = 0;
   
   let topText = `Hello world!`;
   let bottomText = `I'm Jason`;
@@ -55,16 +58,10 @@ export default function sketch (p) {
   let g = getNewColor();
   let b = getNewColor();
 
-  const IS_MOBILE = isMobile();
-  const SCREEN = screenDimensions();
   let orientation = window.innerWidth > window.innerHeight
     ? true
     : false;
 
-  if (SCREEN.width < 450) {
-    xVelocity = 2;
-    yVelocity = 2;
-  }
   // P5 FUNCTIONS
   p.setup = () => {
     if (IS_MOBILE) {
@@ -90,6 +87,11 @@ export default function sketch (p) {
       p.resizeCanvas(window.innerWidth, window.innerHeight - 60);
     }
   }
+
+  setTimeout(() => {
+    xVelocity = IS_MOBILE ? 2 : 3;
+    yVelocity = IS_MOBILE ? 2 : 3;
+  }, 1250);
 
   p.draw = () => {
     p.background(0, 0, 0);
