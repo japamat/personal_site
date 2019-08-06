@@ -38,8 +38,6 @@ function makeText(chain, numWords = 100) {
 
   while (res.length < numWords && starter !== null) {
     res.push(starter);
-    // console.log(chain[starter]);
-    
     let nextWord;
     if (!chain[starter].length) {
       nextWord = __pickRandom__(words);

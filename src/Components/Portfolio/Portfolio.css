@@ -1,8 +1,15 @@
-.portfolio-div {
-    height: calc(100vh - 40px);
-}
-
 .horizontal-rule {
     border-top: 1px solid rgba(232, 225, 222, .5);;
     width: 100%;
+}
+
+.portfolio-wrapper {
+    text-align: center;
+    padding-top: 2em;
+    max-width: 1500px;
+}
+
+.portfolio-header {
+    margin: 0 auto 2em;
+    max-width: 750px;
 }

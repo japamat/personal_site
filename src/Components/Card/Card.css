@@ -1,13 +1,82 @@
 .japamat-card {
-    padding: 5vw 2vw;
-    width: 100%;
+    /* text-align: center; */
+}
+
+.card-wrapper {
+    background-color: rgb(50, 50, 50);
+    /* border: 1px solid rgb(232, 225, 222); */
+    color: rgb(232, 225, 222);
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1em;
+    max-width: 820px;
+    -webkit-box-shadow: -1px 0px 30px -2px black;
+    -moz-box-shadow: -1px 0px 30px -2px black;
+    box-shadow: -1px 0px 30px -2px black;
 }
 
 .card-img {
-    max-width: 300px;
-    border-radius: 2%;
+    width: 300px;
+    border-radius: 0;
 }
 
 .link-icon {
     transform: rotate(135deg);
+}
+
+.card-stack-features {
+    width: 300px;
+    background: rgb(33, 33, 33);
+}
+
+.card-links-pic {
+    margin: 0 auto;
+}
+
+.card-stack-features-wrapper {
+    margin: 0 auto;
+}
+
+.card-toggle-button-wrapper {
+    display: flex;
+    justify-content: center
+}
+
+.card-stack-features-title {
+    margin-top: 0.5rem;
+}
+
+.card-toggle-button {
+    flex-grow: 1;
+    font-size: 1.2em;
+    border: none;
+    padding: 5px 0 5px;
+    color: rgb(232, 225, 222);
+    background: rgb(18, 18, 18);
+}
+
+.card-toggle-button:focus {
+    outline: 0;
+}
+
+.card-toggle-button-active {
+    pointer-events: none;
+    font-weight: 550; 
+    background-color: rgb(33, 33, 33)!important;
+}
+
+.card-list {
+    text-align: center;
+    padding: 15px 0 15px;
+    list-style: none;
+}
+
+.card-list-wrapper {
+    z-index: 3;
+    max-width: 200px;
+}
+
+.card-toggle-button-active {
+    opacity: 0.8;
+    background: transparent;
 }

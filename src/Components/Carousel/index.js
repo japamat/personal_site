@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Icon from '../Icon';
 import './Carousel.css';
 
+
 class Carousel extends Component {
   constructor(props) {
     super(props);
@@ -21,10 +22,11 @@ class Carousel extends Component {
     }))
   }
 
+  
   render() {
+    
     const { imgs } = this.props;
     const { idx } = this.state;
-
     const imgStyles = {
       backgroundImage: `url(${ imgs[idx].src })`
     }
